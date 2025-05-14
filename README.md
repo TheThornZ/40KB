@@ -10,4 +10,4 @@ After manually compressing the text by hand and using ChatGPT on larger games, I
 Finally, compressing it as a standard ZIP file resulted in a file size of 39.6KB, with a size on disk of 40KB.
 I could have reduced the size further using WinRAR, saving an additional 3KB, but I chose not to require extra software.
 
-MThorns
+(c)MThorns 2025
